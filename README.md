@@ -85,6 +85,13 @@ Resposta (`201 Created`):
 
 Pré-requisito: [Docker Desktop](https://www.docker.com/products/docker-desktop) instalado e rodando.
 
+Clone o repositório e entre na pasta:
+```bash
+git clone https://github.com/rocha-Railton/Api-Pedidos.git
+cd Api-Pedidos
+```
+
+Suba os containers:
 ```bash
 docker compose up --build
 ```
